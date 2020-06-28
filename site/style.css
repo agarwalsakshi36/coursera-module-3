@@ -1,0 +1,18 @@
+#navbarSupportedContent{
+	background-color:#d4af4a;
+}
+.main-text{
+	width:100%;
+	background-color: #bae0d3;
+	font-family: helvetica;
+	padding:5px;
+	margin:0 5% 0 5%;
+}
+h1{
+	width:100%;
+	text-align:center;
+}
+.container-fluid{
+	padding-right: 0;
+	padding-left: 0;
+}
